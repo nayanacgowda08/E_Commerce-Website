@@ -102,3 +102,39 @@ Functionalities
 
 6.Dark Mode Toggle:
   Allows users to switch between light and dark themes, with the preference saved in local storage.
+
+Images=>
+
+1. Home Page -Dark Mode
+![image](https://github.com/user-attachments/assets/0709d0a5-1b1b-4bb3-a6ec-35fb1d98c97a)
+
+2. Home Page -Light Mode
+![image](https://github.com/user-attachments/assets/3404c2af-f1e0-48cf-8106-ecb504374772)
+
+3. Products -Light Mode
+![image](https://github.com/user-attachments/assets/7c18a985-1566-4502-a22c-0942aed219a9)
+
+4. Products -Dark Mode
+![image](https://github.com/user-attachments/assets/3dc13f1b-bd4d-4951-bbe1-7ff7b95af068)
+
+5. Banner Page-Dark Mode
+![image](https://github.com/user-attachments/assets/67df504f-b0d3-49ea-ab34-0c0d9483ac3e)
+
+6. Banner Page-Light Mode
+![image](https://github.com/user-attachments/assets/a1955a70-fedf-42ec-a18c-af952920c0a2)
+
+7. Testimonials-Light Mode
+![image](https://github.com/user-attachments/assets/48e5e424-aee6-4768-a026-1a8caf7117b1)
+
+8. Testimonials -Dark Mode
+![image](https://github.com/user-attachments/assets/c0a8b0ec-df7a-4a13-bc19-6f461f20ceae)
+
+9.Footer -Dark Mode
+![image](https://github.com/user-attachments/assets/e221fb73-57dd-49dc-b252-a2ae98ccb4bb)
+
+
+10. Footer -Light Mode
+![image](https://github.com/user-attachments/assets/66eb9927-4135-4852-aef4-15f9d0944ecc)
+
+
+
